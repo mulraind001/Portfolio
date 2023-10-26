@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db8fd851-91ec-4954-92d4-109cda125fa3" name="Changes" comment="changes to the website">
+    <list default="true" id="db8fd851-91ec-4954-92d4-109cda125fa3" name="Changes" comment="change the button to email">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <workItem from="1698160315436" duration="559000" />
       <workItem from="1698160982787" duration="1315000" />
       <workItem from="1698340263583" duration="19000" />
-      <workItem from="1698340289520" duration="595000" />
+      <workItem from="1698340289520" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="changes to the website">
       <created>1698161064247</created>
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698161064247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change the button to email">
+      <created>1698341731690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698341731691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes to the website" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to the website" />
+    <MESSAGE value="change the button to email" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the button to email" />
   </component>
 </project>
